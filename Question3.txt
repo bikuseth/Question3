@@ -1,0 +1,9 @@
+Q3
+A.it is To find past commands 
+B.To show hidden files you must use the -a option, 
+which commands ls to list "all" files and folders (including hidden ones). 
+Navigate to your home directory with the cd command and do a listing of all files using ls.
+ As you can see, there are several files that start with a dot (.)
+
+C. Linux-based OS like Ubuntu, Centos are new for me but if I selected I will definitely learn
+D.Yes,In past to host any web applications I usuall used tomcat application server and tomcat is used to build dynamic application
